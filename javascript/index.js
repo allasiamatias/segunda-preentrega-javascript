@@ -172,7 +172,7 @@ const productos = [
     {
         id:"quilmes",
         titulo:"Quilmes",
-        imagen:"./imagenes/Quilmes.png",
+        imagen:"./imagenes/quilmes.png",
         categoria:{
             nombre:"Cervezas",
             id:"cervezas"
